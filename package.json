@@ -1,0 +1,25 @@
+{
+  "name": "mpr",
+  "version": "1.0.0",
+  "description": "for shared tech team mpr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belldoor/mpr.git"
+  },
+  "keywords": [
+    "mpr",
+    "sharedtechteam",
+    "electronicarts",
+    "ea"
+  ],
+  "author": "JongMoon An",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belldoor/mpr/issues"
+  },
+  "homepage": "https://github.com/Belldoor/mpr#readme"
+}
