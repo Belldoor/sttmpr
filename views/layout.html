@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% include 'header.html' %}
+    {% block header %}
+    {% endblock %}
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </div>
+    <script src="javascripts/reveal.js"></script>
+    <script>Reveal.initialize();</script>
+</body>
+</html>
