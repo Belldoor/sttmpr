@@ -2,41 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8e9ec37-6a58-444b-807f-4043e5ea14d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fy17nov/diet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fy17nov/monthly-index.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fy17nov/rfm-table.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fy17nov/rfm-wiki.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fy17nov/segmentation-data.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/fy17nov/user-flow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/routes/fy17.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/nov/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/nov/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/nov/slide/bisite.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/nov/slide/diet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/nov/slide/intro.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/nov/slide/outro.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/oct/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/oct/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/oct/layout.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/mpr16oct/asiabi_dashboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/mpr16oct/diet.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/mpr16oct/fdm_dashboard.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/mpr16oct/rbr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/mpr16oct/reportofhistoricaltrend.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/mpr16oct/rfm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/images/mpr16oct/whatisrbr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/header.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/jan/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/jan/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/jan/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/jan/slide/commonmetricsdashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/jan/slide/intro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/jan/slide/outro.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/fy17/jan/slide/rfm.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/fy17.js" afterPath="$PROJECT_DIR$/routes/fy17.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.html" afterPath="$PROJECT_DIR$/views/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/layout.html" afterPath="$PROJECT_DIR$/views/fy17/nov/layout.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/slide/asiabidashboard.html" afterPath="$PROJECT_DIR$/views/fy17/oct/slide/asiabidashboard.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/slide/bisite.html" afterPath="$PROJECT_DIR$/views/fy17/oct/slide/bisite.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/slide/diet.html" afterPath="$PROJECT_DIR$/views/fy17/oct/slide/diet.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/slide/financedatamanager.html" afterPath="$PROJECT_DIR$/views/fy17/oct/slide/financedatamanager.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/slide/intro.html" afterPath="$PROJECT_DIR$/views/fy17/oct/slide/intro.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/views/slide/outro.html" afterPath="$PROJECT_DIR$/views/fy17/oct/slide/outro.html" />
     </list>
     <ignored path="sttmpr16oct.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,106 +35,50 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="intro.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/intro.html">
+            <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/intro.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="209">
-                  <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+                  <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="bisite.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/bisite.html">
+          <file leaf-file-name="rfm.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/rfm.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="369">
-                  <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+                <state relative-caret-position="399">
+                  <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.md">
+          <file leaf-file-name="fy17.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/routes/fy17.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="57">
-                  <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                <state relative-caret-position="114">
+                  <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="asiabidashboard.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/asiabidashboard.html">
+          <file leaf-file-name="commonmetricsdashboard.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/commonmetricsdashboard.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="209">
-                  <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-                  <folding>
-                    <element signature="n#style#0;n#image#0;n#section#1;n#section#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bisite.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/bisite.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="437">
-                  <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-                  <folding>
-                    <element signature="n#style#0;n#image#0;n#section#2;n#section#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="diet.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/diet.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-                  <folding>
-                    <element signature="n#style#0;n#image#0;n#section#0;n#section#0;n#!!top" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="financedatamanager.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/financedatamanager.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+                  <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="intro.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/intro.html">
+          <file leaf-file-name="outro.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/outro.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="outro.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/outro.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="171">
-                  <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="outro.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/outro.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="152">
-                  <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+                <state relative-caret-position="247">
+                  <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -168,12 +87,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="diet.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/diet.html">
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/views/fy17/jan/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="171">
-                  <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+                <state relative-caret-position="114">
+                  <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
@@ -213,8 +132,6 @@
         <option value="$PROJECT_DIR$/views/fy17/oct/index.html" />
         <option value="$PROJECT_DIR$/views/fy17/oct/header.html" />
         <option value="$PROJECT_DIR$/views/fy17/oct/layout.html" />
-        <option value="$PROJECT_DIR$/routes/fy17.js" />
-        <option value="$PROJECT_DIR$/views/index.html" />
         <option value="$PROJECT_DIR$/views/fy17/nov/slide/intro.html" />
         <option value="$PROJECT_DIR$/views/fy17/nov/index.html" />
         <option value="$PROJECT_DIR$/views/fy17/nov/slide/outro.html" />
@@ -225,6 +142,13 @@
         <option value="$PROJECT_DIR$/views/fy17/oct/slide/bisite.html" />
         <option value="$PROJECT_DIR$/views/fy17/oct/slide/diet.html" />
         <option value="$PROJECT_DIR$/views/fy17/oct/slide/financedatamanager.html" />
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/views/fy17/jan/slide/intro.html" />
+        <option value="$PROJECT_DIR$/views/fy17/jan/index.html" />
+        <option value="$PROJECT_DIR$/views/fy17/jan/slide/commonmetricsdashboard.html" />
+        <option value="$PROJECT_DIR$/routes/fy17.js" />
+        <option value="$PROJECT_DIR$/views/fy17/jan/slide/rfm.html" />
+        <option value="$PROJECT_DIR$/views/fy17/jan/slide/outro.html" />
       </list>
     </option>
   </component>
@@ -237,10 +161,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1216" />
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -369,8 +292,26 @@
               <option name="myItemId" value="fy17" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oct" />
+              <option name="myItemId" value="sttmpr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sttmpr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fy17" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jan" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,7 +333,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="oct" />
+              <option name="myItemId" value="jan" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -410,11 +351,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fy17" />
+              <option name="myItemId" value="routes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -433,15 +370,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\04_personal_workspace\sttmpr16oct\views\fy17\oct" />
-      <recent name="E:\04_personal_workspace\sttmpr16oct\views\fy17" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\04_personal_workspace\sttmpr\views\fy17\jan" />
       <recent name="E:\04_personal_workspace\sttmpr16oct\views\fy17" />
       <recent name="E:\04_personal_workspace\sttmpr16oct\public" />
       <recent name="E:\04_personal_workspace\sttmpr16oct\public\javascripts" />
       <recent name="E:\04_personal_workspace\sttmpr16oct\public\stylesheets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\04_personal_workspace\sttmpr16oct\views\fy17\oct" />
+      <recent name="E:\04_personal_workspace\sttmpr16oct\views\fy17" />
     </key>
   </component>
   <component name="RunManager">
@@ -514,19 +452,20 @@
       <updated>1477878980450</updated>
       <workItem from="1477878982162" duration="4939000" />
       <workItem from="1480471161051" duration="4419000" />
-      <workItem from="1480475676483" duration="172000" />
+      <workItem from="1480475676483" duration="768000" />
+      <workItem from="1485305437979" duration="3581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9530000" />
+    <option name="totallyTimeSpent" value="13707000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1216" extended-state="6" />
+    <frame x="1920" y="0" width="1920" height="1200" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14285715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1444563" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -561,6 +500,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/financedatamanager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/outro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/outro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/diet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/fy17/nov/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -734,20 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/fy17.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/fy17/nov/layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -779,30 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/bisite.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/diet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/diet.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -829,16 +770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/asiabidashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#image#0;n#section#1;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/bisite.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -849,10 +780,128 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/diet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/financedatamanager.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="380">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/oct/slide/asiabidashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#image#0;n#section#1;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/nov/slide/bisite.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/jan/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="56" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/jan/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/intro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/jan/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/fy17.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/rfm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/commonmetricsdashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/fy17/jan/slide/outro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>

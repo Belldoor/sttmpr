@@ -7,6 +7,9 @@ exports.delegate = function (app) {
 
 	// November
 	app.get('/fy17/nov', nov);
+
+	// January
+	app.get('/fy17/jan', jan);
 };
 
 function oct(req, res) {
@@ -15,4 +18,8 @@ function oct(req, res) {
 
 function nov(req, res) {
 	return res.render('fy17/nov/index');
+}
+
+function jan(req, res) {
+	return res.render('fy17/jan/index');
 }
